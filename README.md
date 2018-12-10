@@ -2,6 +2,7 @@
 Error Subspace Statistical Estimation for Uncertainty
 
 
+
 DESCRIPTION
 
 Error Subspace Statistical Estimation (ESSE) is an approach used for calculating uncertainty when formulating forecasts from large data ensembles. The intention is to estimate and predict the largest uncertainties, then combine the models and data accordingly. 
@@ -9,6 +10,7 @@ Error Subspace Statistical Estimation (ESSE) is an approach used for calculating
 This project will introduce two programs:
 1.	ESSE Serial Implementation (C++)
 2.	ESSE Parallel Implementation (C++/OpenMP)
+
 
 
 
@@ -32,6 +34,8 @@ c.	Maximum forecast time, Tmax
     a.	Convergence is reached
     b.	Nmax is reached
     c.	Tmax is reached
+
+
 
 
 HOW TO RUN
