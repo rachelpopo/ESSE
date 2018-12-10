@@ -250,7 +250,7 @@ public:
 
 
 /* Serial ESSE Execution */
-int main(int argc, const char * argv[]) {
+int main() {
     
     esse se;
     time_t current_time = time(0);
