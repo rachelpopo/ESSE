@@ -253,7 +253,7 @@ public:
 
 
 /* Parallel ESSE Execution */
-int main2(int argc, const char * argv[]) {
+int main() {
     
     esse se;
     time_t current_time = time(0);
